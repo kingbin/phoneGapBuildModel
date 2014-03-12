@@ -6,7 +6,8 @@
         id        = "me.chrisblazek.helloworld"
         version   = "1.0.0">
 
-    <preference name="phonegap-version" value="3.4.0" />
+        <!--<preference name="phonegap-version" value="3.4" />-->
+    <preference name="phonegap-version" value="3.1.0" />
 
     <name>demo phoneGap Build</name>
 
